@@ -1,2 +1,2 @@
-# cMOOC
- platform for connectivism massive open online course use WordPress theme.
+# COMPLEX
+ The complex of Connectivist-Oriented Multiple Personal Learning Environments.

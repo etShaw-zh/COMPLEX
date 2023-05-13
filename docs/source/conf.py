@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'cMOOC'
+project = 'COMPLEX'
 copyright = '2023, Jianjun Xiao'
 author = 'Jianjun Xiao'
 release = 'v1.0.0'
@@ -15,12 +15,13 @@ release = 'v1.0.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 from recommonmark.parser import CommonMarkParser
+import sphinx_markdown_tables
 source_parsers = {
     '.md': 'recommonmark.parser.CommonMarkParser',
 }
 source_suffix = ['.rst', '.md']
-# extensions = ['recommonmark', 'sphinx_markdown_tables']
-extensions = ['recommonmark']
+extensions = ['recommonmark', 'sphinx_markdown_tables']
+# extensions = ['recommonmark']
 
 templates_path = ['_templates']
 exclude_patterns = []
