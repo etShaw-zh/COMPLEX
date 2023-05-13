@@ -14,6 +14,7 @@ release = 'v1.0.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+from recommonmark.parser import CommonMarkParser
 source_parsers = {
     '.md': 'recommonmark.parser.CommonMarkParser',
 }
