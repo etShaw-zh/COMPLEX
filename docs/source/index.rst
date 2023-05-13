@@ -30,10 +30,12 @@
 .. toctree::
     :maxdepth: 2
     :caption: 用户指南
+
     user-guide/faq
 
 
 .. toctree::
     :maxdepth: 2
     :caption: 开发者指南
+    
     developer-guide/about

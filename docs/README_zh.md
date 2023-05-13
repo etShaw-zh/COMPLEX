@@ -26,4 +26,4 @@
 
 
 ## 文档
-使用 cMOOC 之前建议阅读[帮助文档](https://cmooc.readthedocs.io/en/latest/)，你想知道的，都在这里~~
+使用 cMOOC 之前建议阅读[帮助文档](cmooc.readthedocs.io)，你想知道的，都在这里~~
