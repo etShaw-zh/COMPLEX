@@ -43,7 +43,7 @@
     :maxdepth: 2
     :caption: 用户指南
 
-    user-guide/faq
+    user-guide/fqa
 
 
 .. toctree::
