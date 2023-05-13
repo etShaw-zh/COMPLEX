@@ -19,7 +19,8 @@ source_parsers = {
     '.md': 'recommonmark.parser.CommonMarkParser',
 }
 source_suffix = ['.rst', '.md']
-extensions = ['recommonmark', 'sphinx_markdown_tables']
+# extensions = ['recommonmark', 'sphinx_markdown_tables']
+extensions = ['recommonmark']
 
 templates_path = ['_templates']
 exclude_patterns = []
