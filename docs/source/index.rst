@@ -50,4 +50,6 @@
     :maxdepth: 2
     :caption: 开发者指南
 
+    developer-guide/architecture
     developer-guide/about
+    
