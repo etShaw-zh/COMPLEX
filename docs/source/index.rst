@@ -24,7 +24,7 @@
 .. raw:: html
 
 欢迎来到 cMOOC 文档
-==================
+===================
 本文档是`cMOOC <https://github.com/etShaw-zh/cMOOC>`_ 项目的说明及帮助文档，包括用户指南和开发者指南两部分。
 
 .. toctree::
