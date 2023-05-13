@@ -20,4 +20,4 @@
 
 
 ## 文档
-使用 COMPLEX 之前建议阅读[帮助文档](https://complex.readthedocs.io)，你想知道的，都在这里~~
+使用 COMPLEX 之前建议阅读[帮助文档](https://complex-docs.readthedocs.io)，你想知道的，都在这里~~
